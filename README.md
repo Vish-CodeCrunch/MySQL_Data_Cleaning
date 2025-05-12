@@ -19,7 +19,6 @@ Welcome to the **Electronics Retail Data Cleaning Project**! This repository con
 - [Project Structure](#project-structure)
 - [Example](#example)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -204,12 +203,6 @@ We’d love your contributions! To get started:
 3. Make your changes and commit (`git commit -m "Add your feature"`).
 4. Push to your branch (`git push origin feature/your-feature`).
 5. Create a pull request 📬.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
