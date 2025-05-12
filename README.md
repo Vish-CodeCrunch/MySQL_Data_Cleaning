@@ -172,7 +172,7 @@ The `electronics_retail_final.sql` script performs the following:
 ## 📂 Project Structure
 
 - `electronics_retail_final.sql`: The main MySQL script for data cleaning.
-- `electronics_retail_unclean_5000_extended.csv`: (Not included) The raw dataset to be cleaned.
+- `electronics_retail_unclean_5000_extended.csv`: The raw dataset to be cleaned.
 - `README.md`: This documentation file.
 
 ---
