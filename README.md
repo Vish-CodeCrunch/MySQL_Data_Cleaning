@@ -82,7 +82,7 @@ The dataset is imported from a CSV file (`electronics_retail_unclean_5000_extend
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/electronics-retail-data-cleaning.git
+   https://github.com/Vish-CodeCrunch/MySQL_Data_Cleaning.git
    ```
 
 2. **Navigate to the Project Directory**:
